@@ -7,6 +7,7 @@ public class Demo {
 	@Test
 	public void method() {
 		System.out.println("hi");
+		System.out.println("ATE Branch");
 	}
 
 }
